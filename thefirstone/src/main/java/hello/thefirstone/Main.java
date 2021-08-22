@@ -7,7 +7,7 @@ package hello.thefirstone;
 
 /**
  *
- * @author root
+ * @author plsswa
  */
 public class Main {
     
