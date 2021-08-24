@@ -1,0 +1,10 @@
+ 1043  git init -b main
+ 1044  git add .
+ 1045  git commit -m"my code directory"
+ 1046  git remote add origin https://github.com/plsswa/thefirstone.git
+ 1047  git remote add origin https://github.com/plsswa/thefirstone2.git
+ 1048  git remote add origin https://github.com/plsswa/thefirstone.git
+ 1049  get remote -v
+ 1050  git remote -v
+ 1051  git push origin main
+ 1052  history 
